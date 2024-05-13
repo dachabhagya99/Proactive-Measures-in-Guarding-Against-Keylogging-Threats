@@ -15,3 +15,5 @@ Register or login to your account.
 Start playing the adventure game.
 If a keylogger threat is detected, you will receive an email notification.
 Save your game progress and compete on the leaderboard.
+
+MySQL is used for database,Pycharm IDE is used can download the project and open with Pycharm and can test and validate.
